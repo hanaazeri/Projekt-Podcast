@@ -1,0 +1,4 @@
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.tb.resources
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.Properties.Resources.resources
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.csproj.GenerateResource.cache
