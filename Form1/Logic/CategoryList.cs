@@ -7,17 +7,7 @@ using System.Xml;
 
 namespace Projektet.Logic
 {
-    public class CategoryList
+    public class CategoryList : List<Category>
     {
-        public List<Category> catList { get; set; }
-        public XmlWriter xmlWriter;
-
-
-        public void addCategory(string categoryName)
-        {
-            Category category = new Category(categoryName);
-            catList.Add(category);
-        }
-
     }
 }

@@ -2,3 +2,8 @@ C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.csprojAss
 C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.tb.resources
 C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.Properties.Resources.resources
 C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\bin\Debug\Projektet.exe.config
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\bin\Debug\Projektet.exe
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\bin\Debug\Projektet.pdb
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.exe
+C:\Users\Hp\Documents\GitHub\Projekt-Podcast\Form1\obj\Debug\Projektet.pdb

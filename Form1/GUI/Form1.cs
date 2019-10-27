@@ -1,4 +1,5 @@
 ﻿using Projektet.Logic;
+using Projektet.Data;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,6 +17,8 @@ namespace Projektet
 {
     public partial class tb : Form
     {
+        public Methods methods = new Methods();
+
         public tb()
         {
             InitializeComponent();
@@ -75,7 +78,8 @@ namespace Projektet
         private void Sparakategori_Click(object sender, EventArgs e)
         {
             var categoryName = tbkategori.Text;
-            CategoryList.addCategory(categoryName);
+            CategoryList category = new CategoryList();
+            methods.addCategory(categoryName);
         }
     }
 }

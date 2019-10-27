@@ -58,6 +58,7 @@
     <Compile Include="Logic\Category.cs" />
     <Compile Include="Logic\CategoryList.cs" />
     <Compile Include="Logic\Episode.cs" />
+    <Compile Include="Logic\Methods.cs" />
     <Compile Include="Logic\Podcast.cs" />
     <Compile Include="Data\XMLReader.cs" />
     <Compile Include="Program.cs" />
