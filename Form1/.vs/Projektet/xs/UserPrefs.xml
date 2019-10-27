@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{412C85B8-21D6-4033-8585-1012522CC525}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GUI/Form1.resx">
+    <Files>
+      <File FileName="Data/PodcastEntity.cs" Line="1" Column="1" />
+      <File FileName="GUI/Form1.cs" Line="1" Column="1" />
+      <File FileName="Logic/Podcast.cs" Line="1" Column="1" />
+      <File FileName="GUI/Form1.resx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projektet" expanded="True">
+            <Node name="Projektet" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="GUI" expanded="True">
+                <Node name="Form1.cs" expanded="True">
+                  <Node name="Form1.resx" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Logic" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Projektet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
